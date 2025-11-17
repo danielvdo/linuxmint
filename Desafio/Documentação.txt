@@ -1,0 +1,18 @@
+# Sobre o manjaro e ubuntu
+
+Eles são parecidos com linux mint, mas tem umas diferencia e tem alguns pontos positivos e negativos, o terminal deles são diferente o ubuntu é igual o linux, mas com snap e visual diferente enquanto manjaro depende da edição pode ser KDE, XFCE e GNOME, mas é pacman + AUR (yay)
+
+# Instalação dos manjaro e ubuntu
+
+01) baixar iso do manjaro e ubuntu
+(OBS: pode usar um site que é distrosea.com enquanto baixa os sistema operacionais)
+
+02) instala eles no computador
+(OBS: se quiser no virtual box)
+
+03) fazer upgrade/update no terminal
+
+04) baixa o navegadores e visual studio
+
+05) instalar os drivers
+
